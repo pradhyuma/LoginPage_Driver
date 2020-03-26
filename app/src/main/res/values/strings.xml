@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginPage_Driver</string>
+    <string name="where_is_my_cab">Where is My Cab?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="please_sign_in">Please Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email-Id</string>
+    <string name="textview">TextView</string>
+</resources>
